@@ -24,8 +24,7 @@ This app lets you create, manage, and view events easily.
 
 Here’s how the app looks:  
 
-![App Screenshot](assets/1.png)  
-![](assets/2.png) 
+![App Screenshot](assets/1.png)  ![](assets/2.png) 
 
 
 ---
