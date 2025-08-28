@@ -31,7 +31,34 @@ Here’s how the app looks:
 
 ## ⚙️ Setup Instructions  
 
-### 1️⃣ Clone the repository  
+### 1. Clone the repository  
 
-`git clone [https://github.com/Subhaga2000/your-repo-name.git](https://github.com/Subhaga2000/media-unit-management.git)
+`git clone https://github.com/Subhaga2000/media-unit-management.git
 cd your-media-unit-management`
+
+### 2. Create and Activate Virtual Environment
+
+`python -m venv .venv`
+#### Windows
+`.venv\Scripts\activate`
+#### Mac/Linux
+`source .venv/bin/activate`
+
+### 3. Install Dependencies
+
+`pip install -r requirements.txt`
+
+### 4. Set Up Secrets
+
+`[supabase]`
+**url = "your-supabase-url"**
+**key = "your-supabase-key"**
+
+
+### 5. Run the Application
+
+`streamlit run app.py`
+
+
+
+
