@@ -32,6 +32,6 @@ Here’s how the app looks:
 ## ⚙️ Setup Instructions  
 
 ### 1️⃣ Clone the repository  
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+
+`git clone [https://github.com/Subhaga2000/your-repo-name.git](https://github.com/Subhaga2000/media-unit-management.git)
+cd your-media-unit-management`
