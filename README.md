@@ -26,10 +26,10 @@ This app connects to a **Supabase database** for storing and retrieving data.
 Here’s how the app looks:  
 
 ##### Screenshot 1
-![Screenshot 1](assests/1.png)
+![Screenshot 1](assets/1.png)
 
 ##### Screenshot 2
-![Screenshot 2](assests/2.png)
+![Screenshot 2](assets/1.png)
 
 ---
 
