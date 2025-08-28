@@ -1,14 +1,15 @@
 # 🎉 Event Management System  
 
-A simple Event Management System built with **Python (Flask)** and **Supabase** as the backend.  
-This app lets you create, manage, and view events easily.
+A simple **Streamlit-based web application** to manage Media Unit members and events.  
+This app connects to a **Supabase database** for storing and retrieving data.
 
 ---
 
 ## 🚀 Features  
-- Add and view events  
-- Store event data in **Supabase**  
-- Simple UI for easy interaction  
+- Add, view, and manage members easily  
+- Store and retrieve event information  
+- Connects to Supabase for database operations  
+- Clean and simple UI built with Streamlit  
 - Secure API keys with `.env` or `secrets.toml`  
 
 ---
@@ -24,7 +25,10 @@ This app lets you create, manage, and view events easily.
 
 Here’s how the app looks:  
 
-![App Screenshot](assets/1.png)  ![](assets/2.png) 
+![App Screenshot](assets/1.png)  
+
+
+![Screenshot 2](assets/2.png)
 
 
 ---
