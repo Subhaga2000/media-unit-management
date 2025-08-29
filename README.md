@@ -29,7 +29,7 @@ Here’s how the app looks:
 ![Screenshot 1](assets/1.png)
 
 ##### Screenshot 2
-![Screenshot 2](assets/1.png)
+![Screenshot 2](assets/2.png)
 
 ---
 
